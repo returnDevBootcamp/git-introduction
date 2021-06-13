@@ -8,8 +8,8 @@ To complete this homework you should
    - For example, if your name is Mohamed Ali then call your file `MOHAMED_ALI`
 4. In this file, write an introduction yourself. You should include:
    1. Your name
-   2. Your favourite sport and why you like it
-   3. Your favourite food and why it's your favourite
+   2. Where you where born
+   3. What country do you want to live in
    4. Your favourite movie
    5. An interesting fact about yourself
 5. `Commit` the file to your repository
