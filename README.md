@@ -7,11 +7,11 @@ To complete this homework you should
 3. Create a new file called `FIRSTNAME_LASTNAME`
    - For example, if your name is Mohamed Ali then call your file `MOHAMED_ALI`
 4. In this file, write an introduction yourself. You should include:
-   1. Your name
-   2. Where you where born
-   3. What country do you want to live in
-   4. Your favourite movie
-   5. An interesting fact about yourself
+   1. Your name Mohomoud Farah
+   2. Where you where born Ceerigaabo
+   3. What country do you want to live in France
+   4. Your favourite movie The lucky one
+   5. An interesting fact about yourself That I am honesty!
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
