@@ -20,4 +20,4 @@ To complete this homework you should
 2. I was born in Somailand Erigavo
 3. I Would like to live Republic of Congo
 4. The Flash is my favourite TV show in netflix
-5. I like playing football but I'm for playing.
+5. I like playing football but I'm Bad for playing.
