@@ -34,5 +34,5 @@ When you ask for help you should always say what exactly isn't work
 •	There is no movie that I am particularly interested in 
 But some time I watch series films
 •	The only fact I am interested in myself is that I do not compare
-                        Myself with anyone else. Because I’m me
+                        Myself with anyone else. Because I’m meee
 
